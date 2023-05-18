@@ -11,7 +11,7 @@ O desafio consistia em construir um card que exibisse informações estatística
 ![Preview do Desafio Concluído](design/desktop.png)
 ![Preview do Desafio Concluído](design/mobile.png)
 
-Você pode conferir a versão final do desafio hospedada [aqui](link para a hospedagem do desafio).
+Você pode conferir a versão final do desafio hospedada [aqui](https://xx-mill3r-xx.github.io/frontendMentor-stats-preview-card-component_Challenge/).
 
 ## Tecnologias Utilizadas
 
